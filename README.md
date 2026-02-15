@@ -285,7 +285,6 @@ npm start
 
 ## Contact
 
-Built by **Josh** for the Leveld Junior Developer challenge.
 
 **Questions?** get@leveld.ai
 
